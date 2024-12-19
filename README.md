@@ -31,10 +31,9 @@ Fun Fact: I love playing chess as well.
 
 
 ## 📈 GitHub Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav-panjla" alt="arnav-panjla" /></a> </p>
 
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnav-panjla&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-panjla&layout=compact&theme=radical)
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnav-panjla&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-panjla&layout=compact&theme=radical)
 
 ## 📝 My Blogs
 
@@ -42,15 +41,15 @@ Fun Fact: I love playing chess as well.
 ## 📫 Find me on
   <!-- Mail -->
   <a href="mailto:connect.arnavpanjla@gmail.com" target="_blank"><img alt="Mail"
-          src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" width=80>
+          src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" width=70>
   </a>
   <!-- Twitter -->
   <a href="https://x.com/ArnavPanjla" target="_blank"><img alt="Twitter"
-          src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white width=80">
+          src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white" width=80>
   </a>
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/arnav-panjla-a71309299/" target="_blank"><img alt="Linkedin"
-          src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white width=80">
+          src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" width=120>
   </a>
 </p>
 
