@@ -14,6 +14,8 @@ Fun Fact: I love playing chess as well.
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://kamoshi.org/static/slides/rust-introduction/rust.png" alt="rust" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="rust" width="40" height="40"/> </a> 
+<a href="[https://www.rust-lang.org](https://en.wikipedia.org/wiki/C%2B%2B)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="rust" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -23,6 +25,7 @@ Fun Fact: I love playing chess as well.
 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -35,6 +38,9 @@ Fun Fact: I love playing chess as well.
 ![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnav-panjla&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav-panjla&layout=compact&theme=radical)
 
 ### 📝 My Medium Blogs
+- [Prover vs Verifier: Exploring the World of Interactive Proofs in Cryptography](https://medium.com/@arnavpanjla/prover-vs-verifier-exploring-the-world-of-interactive-proofs-in-cryptography-83ad30be07da)
+- [Demystifying Digital Signatures: The Cornerstone of Modern Cryptography](https://medium.com/@arnavpanjla/demystifying-digital-signatures-the-cornerstone-of-modern-cryptography-8928010690a2)
+- [Symmetric Encryption](https://medium.com/@arnavpanjla/symmetric-encryption-6c0d0b42266c)
 - [Elliptic Curve Cryptography](https://medium.com/@arnavpanjla/elliptic-curve-cryptography-d19a94229dfc)
 - [Fully Homomorphic Encryption](https://medium.com/@arnavpanjla/fully-homomorphic-encryption-fhe-45c6d4eb705d)
 
@@ -45,7 +51,7 @@ Fun Fact: I love playing chess as well.
           src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white" width=80>
   </a>
   <a href="https://www.linkedin.com/in/arnav-panjla-a71309299/" target="_blank"><img alt="Linkedin"
-          src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" width=120>
+          src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" width=90>
   </a>
     <a href="mailto:connect.arnavpanjla@gmail.com" target="_blank"><img alt="Mail"
           src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" width=80>
