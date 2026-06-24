@@ -3,13 +3,21 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350">
 <br>
 
-I'm a passionate technologist with a strong interest in core cryptography 🔐, Web3 🌐, and zero-knowledge proofs (ZK) 🕵️‍♂️. I’m fascinated by cryptography and its applications in decentralized systems and privacy-preserving technologies.
+I enjoy building software close to the hardware, exploring how systems work under the hood, and contributing to open source projects. Most of my work revolves around Rust, C/C++, Linux, firmware development, and distributed systems.
+Currently exploring:
+- Systems Programming in Rust
+- Embedded Development (STM32 & RP2040)
+- Applied Cryptography & Security
+- Wireless Sensing & Localization
+- Open Source Infrastructure
+- AI Agent Infrastructure
 
-Currently pursuing a **B.Tech EE'27** from **IITD**. I’m always excited to collaborate 🤝, exchange ideas, and meet new people who share my passion for technology. Let’s connect and create something impactful! 🚀
+Fun Fact: I enjoy playing chess ♟️
 
-Fun Fact: I love playing chess as well.
+---
 
-### 🛠️ Technologies & Tools
+
+### Technologies & Tools
 <p align="left"> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
